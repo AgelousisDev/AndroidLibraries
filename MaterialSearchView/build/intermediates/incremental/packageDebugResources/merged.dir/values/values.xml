@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#1E88E5</color>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="dayNightTextOnBackground">#252525</color>
+    <color name="green">#31AD31</color>
+    <color name="grey">#C3C3C3</color>
+    <color name="nativeBackgroundColor">#FFFFFF</color>
+    <color name="red">#E57373</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteTwo">#F5F5F5</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">32dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="bottom_sheet_corner_radius">8dp</dimen>
+    <dimen name="bottom_sheet_top_padding">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="twelve_layout_margin">12dp</dimen>
+    <dimen name="zero_dimen">0dp</dimen>
+    <integer name="recycler_view_anim_fall_down_duration">500</integer>
+    <style name="BasicMaterialButton">
+        <item name="android:fontFamily">@font/ubuntu_regular</item>
+    </style>
+    <style name="TextViewLabel">
+        <item name="android:fontFamily">@font/ubuntu_light</item>
+        <item name="android:textColor">@color/dayNightTextOnBackground</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextViewTitle">
+        <item name="android:fontFamily">@font/ubuntu_regular</item>
+        <item name="android:textColor">@color/dayNightTextOnBackground</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="TextViewTitleLabel">
+        <item name="android:fontFamily">@font/ubuntu_regular</item>
+        <item name="android:textColor">@color/dayNightTextOnBackground</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <declare-styleable name="MaterialSearchView">
+        <attr format="reference|string" name="searchHint"/>
+    </declare-styleable>
+</resources>

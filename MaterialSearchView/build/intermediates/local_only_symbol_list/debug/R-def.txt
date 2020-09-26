@@ -1,0 +1,46 @@
+R_DEF: Internal format may change without notice
+local
+attr? searchHint
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color dayNightTextOnBackground
+color green
+color grey
+color nativeBackgroundColor
+color red
+color white
+color whiteTwo
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen app_bar_height
+dimen bottom_sheet_corner_radius
+dimen bottom_sheet_top_padding
+dimen fab_margin
+dimen nav_header_height
+dimen nav_header_vertical_spacing
+dimen text_margin
+dimen twelve_layout_margin
+dimen zero_dimen
+drawable ic_close
+drawable ic_person
+drawable ic_search
+drawable sample
+font ubuntu
+font ubuntu_bold
+font ubuntu_light
+font ubuntu_light_font
+font ubuntu_mono
+font ubuntu_monospace
+font ubuntu_regular
+id profileImageView
+id searchField
+id searchIcon
+integer recycler_view_anim_fall_down_duration
+layout material_search_view_layout
+style BasicMaterialButton
+style TextViewLabel
+style TextViewTitle
+style TextViewTitleLabel
+styleable MaterialSearchView searchHint

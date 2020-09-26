@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/768712646/Android_Libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/768712646/Android_Libraries.iml" group="Android_Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialSearchView.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialSearchView.iml" group="Android Libraries/MaterialSearchView" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1461246888/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1461246888/app.iml" group="Android Libraries/app" />
+    </modules>
+  </component>
+</project>
