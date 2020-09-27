@@ -1,4 +1,4 @@
-![Image] https://raw.githubusercontent.com/AgelousisDev/MaterialSearchViewProject/master/material_search_view.jpg
+![Image](https://raw.githubusercontent.com/AgelousisDev/MaterialSearchViewProject/master/material_search_view.jpg)
 
 > Material Search View
 
