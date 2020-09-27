@@ -1,17 +1,18 @@
 > Material Search View
+
 MaterialSearchView is a View that represents the SearchView most google apps have
 
 > Gradle
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 dependencies {
-	        implementation 'com.github.AgelousisDev:MaterialSearchViewProject:Tag'
-	}
+	implementation 'com.github.AgelousisDev:MaterialSearchViewProject:Tag'
+}
 ```
 
 > Usage
