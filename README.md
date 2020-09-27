@@ -1,4 +1,4 @@
-[logo]: https://github.com/AgelousisDev/MaterialSearchViewProject/blob/master/material_search_view.jpg
+[logo]: https://raw.githubusercontent.com/AgelousisDev/MaterialSearchViewProject/master/material_search_view.jpg
 
 > Material Search View
 
