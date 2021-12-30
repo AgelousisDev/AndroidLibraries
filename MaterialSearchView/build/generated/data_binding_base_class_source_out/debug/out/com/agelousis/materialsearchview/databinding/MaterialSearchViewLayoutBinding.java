@@ -13,10 +13,14 @@ import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
 import com.agelousis.materialsearchview.R;
 import com.agelousis.materialsearchview.models.MaterialSearchViewDataModel;
+import com.google.android.material.card.MaterialCardView;
 import java.lang.Deprecated;
 import java.lang.Object;
 
 public abstract class MaterialSearchViewLayoutBinding extends ViewDataBinding {
+  @NonNull
+  public final MaterialCardView materialCardView;
+
   @NonNull
   public final AppCompatImageView profileImageView;
 
@@ -30,9 +34,10 @@ public abstract class MaterialSearchViewLayoutBinding extends ViewDataBinding {
   protected MaterialSearchViewDataModel mMaterialSearchViewDataModel;
 
   protected MaterialSearchViewLayoutBinding(Object _bindingComponent, View _root,
-      int _localFieldCount, AppCompatImageView profileImageView, AppCompatEditText searchField,
-      AppCompatImageView searchIcon) {
+      int _localFieldCount, MaterialCardView materialCardView, AppCompatImageView profileImageView,
+      AppCompatEditText searchField, AppCompatImageView searchIcon) {
     super(_bindingComponent, _root, _localFieldCount);
+    this.materialCardView = materialCardView;
     this.profileImageView = profileImageView;
     this.searchField = searchField;
     this.searchIcon = searchIcon;

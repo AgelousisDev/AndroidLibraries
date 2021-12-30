@@ -7,12 +7,13 @@
     </data>
 <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Widget.Material3.CardView.Filled"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    app:cardCornerRadius="8dp"
-    app:cardElevation="8dp"
+    app:cardCornerRadius="30dp"
     app:cardUseCompatPadding="true"
-    android:clipToPadding="false">
+    android:clipToPadding="false"
+    android:id="@+id/materialCardView">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

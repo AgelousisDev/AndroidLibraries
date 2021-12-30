@@ -34,6 +34,7 @@ font ubuntu_light_font
 font ubuntu_mono
 font ubuntu_monospace
 font ubuntu_regular
+id materialCardView
 id profileImageView
 id searchField
 id searchIcon

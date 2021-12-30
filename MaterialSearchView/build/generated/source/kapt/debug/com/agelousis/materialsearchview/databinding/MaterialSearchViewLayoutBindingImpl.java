@@ -17,8 +17,6 @@ public class MaterialSearchViewLayoutBindingImpl extends MaterialSearchViewLayou
         sViewsWithIds.put(R.id.searchIcon, 3);
     }
     // views
-    @NonNull
-    private final com.google.android.material.card.MaterialCardView mboundView0;
     // variables
     // values
     // listeners
@@ -29,12 +27,12 @@ public class MaterialSearchViewLayoutBindingImpl extends MaterialSearchViewLayou
     }
     private MaterialSearchViewLayoutBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
+            , (com.google.android.material.card.MaterialCardView) bindings[0]
             , (androidx.appcompat.widget.AppCompatImageView) bindings[2]
             , (androidx.appcompat.widget.AppCompatEditText) bindings[1]
             , (androidx.appcompat.widget.AppCompatImageView) bindings[3]
             );
-        this.mboundView0 = (com.google.android.material.card.MaterialCardView) bindings[0];
-        this.mboundView0.setTag(null);
+        this.materialCardView.setTag(null);
         this.profileImageView.setTag(null);
         this.searchField.setTag(null);
         setRootTag(root);

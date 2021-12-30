@@ -16,7 +16,6 @@ import androidx.appcompat.widget.AppCompatImageView
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.drawable.RoundedBitmapDrawableFactory
 import androidx.databinding.BindingAdapter
-import com.agelousis.materialsearchview.R
 import java.io.File
 
 fun AppCompatImageView.setAnimatedImageResourceId(resourceId: Int?) {

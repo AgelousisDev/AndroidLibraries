@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/768712646/Android_Libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/768712646/Android_Libraries.iml" group="Android_Libraries" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialSearchView.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialSearchView.iml" group="Android Libraries/MaterialSearchView" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1461246888/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1461246888/app.iml" group="Android Libraries/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/854973353/MaterialSearchView_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/854973353/MaterialSearchView_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialSearchView_Project.MaterialSearchView.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialSearchView_Project.MaterialSearchView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-940263749/MaterialSearchView_Project.app.iml" filepath="$PROJECT_DIR$/.idea/modules/-940263749/MaterialSearchView_Project.app.iml" />
     </modules>
   </component>
 </project>
