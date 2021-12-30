@@ -1,5 +1,2 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.agelousis.materialsearchview">
-
-    /
-</manifest>
+<manifest
+    package="com.agelousis.materialsearchview"/>
