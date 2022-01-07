@@ -1,9 +1,9 @@
-androidx/databinding/DataBindingComponent.java
- androidx.databinding.DataBindingComponent
+com/agelousis/materialsearchview/databinding/MaterialSearchViewLayoutBinding.java
+ com.agelousis.materialsearchview.databinding.MaterialSearchViewLayoutBinding
 com/agelousis/materialsearchview/BuildConfig.java
  com.agelousis.materialsearchview.BuildConfig
-com/agelousis/materialsearchview/DataBindingTriggerClass.java
- com.agelousis.materialsearchview.DataBindingTriggerClass
+com/agelousis/materialsearchview/databinding/MaterialSearchViewLayoutBindingImpl.java
+ com.agelousis.materialsearchview.databinding.MaterialSearchViewLayoutBindingImpl
 com/agelousis/materialsearchview/DataBinderMapperImpl.java
  com.agelousis.materialsearchview.DataBinderMapperImpl
  com.agelousis.materialsearchview.DataBinderMapperImpl$InnerBrLookup
@@ -12,7 +12,7 @@ com/agelousis/materialsearchview/BR.java
  com.agelousis.materialsearchview.BR
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
-com/agelousis/materialsearchview/databinding/MaterialSearchViewLayoutBinding.java
- com.agelousis.materialsearchview.databinding.MaterialSearchViewLayoutBinding
-com/agelousis/materialsearchview/databinding/MaterialSearchViewLayoutBindingImpl.java
- com.agelousis.materialsearchview.databinding.MaterialSearchViewLayoutBindingImpl
+com/agelousis/materialsearchview/DataBindingTriggerClass.java
+ com.agelousis.materialsearchview.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
